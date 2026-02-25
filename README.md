@@ -1,27 +1,78 @@
 <h1 align="center">Hi 👋, I'm Vishal M</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-Stack & AI Systems Engineer — Cloud, Edge & Web3 Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalcoder&label=Profile%20views&color=0e75b6&style=flat" alt="shalcoder" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shalcoder&label=Profile%20views&color=0e75b6&style=flat" alt="shalcoder" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalcoder" alt="shalcoder" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shalcoder" alt="shalcoder" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on **Remote Constrcution Monitoring**
+- 🎓 B.Tech in Computer & Communication Engineering — Amrita Vishwa Vidyapeetham (2024–2028)
 
-- 🌱 I’m currently learning **DSA, DS, DL**
+- 💼 AI Engineering Intern @ Infosys Springboard (Azure OpenAI, Speech Services)
 
-- 👯 I’m looking to collaborate on **Frontend Development Projects**
+- 🧠 Experienced in AI pipelines, LLM agents, RAG systems, and multi-agent orchestration
 
-- 💬 Ask me about **HTML, CSS, Bootstrap,SQL**
+- ⚙️ Strong foundation in Data Structures, System Design, REST APIs & Microservices
 
-- 📫 How to reach me **vishalm26012006@gmail.com**
+- 🌍 Building across Cloud, Edge (ESP32/Raspberry Pi), and AI Governance systems
+
+- 🔐 Focused on API security, AI risk analysis, secure PII handling & compliance workflows
+
+- 🏆 1st Place — AI Verse Hackathon 2026 (AIoT Track)
+
+- 📫 Reach me at: **vishalm26012006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/vishal2601dev" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
+<p align="left">
+  C, C++, Python, JavaScript, TypeScript, SQL, HTML5, CSS3
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalcoder&show_icons=true&locale=en&layout=compact" alt="shalcoder" /></p>
+<h3 align="left">Backend & Systems:</h3>
+<p align="left">
+  FastAPI, Flask, Node.js, REST APIs, WebSockets, Microservices, Authentication & Security
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalcoder&show_icons=true&locale=en" alt="shalcoder" /></p>
+<h3 align="left">Frontend:</h3>
+<p align="left">
+  React, Next.js, Vite, Tailwind CSS
+</p>
+
+<h3 align="left">AI / ML & Agentic Systems:</h3>
+<p align="left">
+  TensorFlow, TensorFlow Lite, Scikit-learn, OpenCV, XGBoost, Gemini API, RAG, Prompt Engineering, Multi-Agent Systems
+</p>
+
+<h3 align="left">Cloud & DevOps:</h3>
+<p align="left">
+  Docker, Docker Compose, CI/CD, Git, GitHub, Vercel, Azure AI, Google Cloud (Vertex AI)
+</p>
+
+<h3 align="left">IoT & Edge:</h3>
+<p align="left">
+  ESP32, Raspberry Pi, Wi-Fi, BLE, Edge AI, Model Quantization
+</p>
+
+<h3 align="left">Security & Governance:</h3>
+<p align="left">
+  API Authentication, Input Validation, Secure PII Handling, AI Risk Analysis, Compliance Workflows
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalcoder&show_icons=true&locale=en&layout=compact" alt="shalcoder" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shalcoder&show_icons=true&locale=en" alt="shalcoder" />
+</p>
